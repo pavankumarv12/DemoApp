@@ -6,7 +6,7 @@
 <meta charset="ISO-8859-1">
 <title>My Web Application</title>
 </head>
-<body bgcolor="magenta">
+<body bgcolor="Cyan">
 
      <% 
      
