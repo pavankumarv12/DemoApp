@@ -8,7 +8,7 @@
 </head>
 <body bgcolor="Cyan">
 	
-     <!% 	<!-- This Delimeter Is Indication Of Declaration -->    %>
+     <%! 	<!-- This Delimeter Is Indication Of Declaration -->    %>
 
      <% 
      <!-- Scriptlet Comment Added -->
@@ -19,6 +19,8 @@
 		
 		out.println("output :" + k);
      %>
+	
+     
 	
 </body>
 </html>
