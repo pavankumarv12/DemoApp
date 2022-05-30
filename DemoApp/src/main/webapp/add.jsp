@@ -2,6 +2,13 @@
 
 page language="java" contentType="text/html; charset=ISO-8859-1"
     pageEncoding="ISO-8859-1"%>
+
+<!-- <%@ This Delimeter Indicates Directive Usage Is To Import Packages %>
+     <%! This Delimeter Indicates Declaration Which Is Outside The Method %>
+     <% This Delimeter Indicates Scriptlet Which Is Inside The Method %>
+     <%= This Delimeter Indicates Expression Of This Code As What It Prints %>
+-->
+
 <!DOCTYPE html>
 <html>
 <head>
