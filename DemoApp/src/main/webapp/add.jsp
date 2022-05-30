@@ -7,6 +7,8 @@
 <title>My Web Application</title>
 </head>
 <body bgcolor="Cyan">
+	
+     <!% 	<!-- This Delimeter Is Indication Of Declaration -->    %>
 
      <% 
      <!-- Scriptlet Comment Added -->
@@ -16,7 +18,7 @@
 		int k = i + j;
 		
 		out.println("output :" + k);
-	 %>
+     %>
 	
 </body>
 </html>
