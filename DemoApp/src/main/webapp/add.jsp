@@ -9,7 +9,7 @@
 <body bgcolor="Cyan">
 
      <% 
-     
+     <!-- Declaration Comment Added -->
         int i = Integer.parseInt(request.getParameter("num1"));
 		int j = Integer.parseInt(request.getParameter("num2"));
 		
@@ -17,5 +17,6 @@
 		
 		out.println("output :" + k);
 	 %>
+	
 </body>
 </html>
