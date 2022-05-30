@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Insert title here</title>
+<title>My Web Application</title>
 </head>
 <body bgcolor="magenta">
 
