@@ -8,7 +8,7 @@ page language="java" contentType="text/html; charset=ISO-8859-1"
 <meta charset="ISO-8859-1">
 <title>My Web Application</title>
 </head>
-<body bgcolor="Cyan">
+<body bgcolor="Yellow">
 	
      <%! 	<!-- This Delimeter Is Indication Of Declaration -->    %>
 
